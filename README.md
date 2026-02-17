@@ -112,3 +112,6 @@ James MacQueen and others. Some methods for classification and analysis of multi
 # Contact
 
 Email: ishita.chauhan.23@ucl.ac.uk / ishitachn@gmail.com
+
+Project link (shaareable): https://github.com/typhlosion-0/Sea-Ice-Classification-with-Unsupervised-Learning/tree/main
+
